@@ -1,7 +1,7 @@
 # Multimodal Deep Learning
 
 ## Purpose 
-Conduct an multimodal analysis (text + image) uisng NLP and Deep Learning (CNN) methods, compare the classification accuaracy between independent models and fusion models (early fusion + late fusion). 
+Conduct a multimodal analysis (text + image) uisng NLP and Deep Learning (CNN) methods, compare the classification accuaracy between independent models and fusion models (early fusion + late fusion). 
 
 ## Data Source 
 Dataset can obtained from the following [link]: https://www.kaggle.com/datasets/abhishtagatya/imgflipscraped-memes-caption-dataset?select=memes_data.tsv
